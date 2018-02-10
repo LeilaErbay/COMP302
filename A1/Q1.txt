@@ -1,0 +1,36 @@
+(* Homework 1 Q1
+   Name: Leila Erbay
+   ID: 260672158 *)
+
+(* First Error *)
+File "hw1-fixme.ml", line 35, characters 30-32:
+Error: Syntax error
+change keyword "of" to "with"
+
+(* Second Error *)
+File "hw1-fixme.ml", line 36, characters 6-8:
+Error: Syntax error
+change symbol "=>" to "->"
+
+(* Third Error *)
+File "hw1-fixme.ml", line 37, characters 6-8:
+Error: Syntax error
+change symbol "=>" to "->"
+
+(* Fourth Error *)
+File "hw1-fixme.ml", line 54, characters 4-6:
+Error: Syntax error
+add "|" to the beginning of lines 53, 54, 55 to complete the pattern matching structure
+
+(* Fifth Error *)
+File "hw1-fixme.ml", line 35, character 28-29:
+Error: Unbound value n (Run-time error)
+Change the structure of the pattern matching:
+(1) let inc ((n:int), (k:int)) = match n with
+     | 0 -> k
+     | _ -> k + n
+or remove pattern matching structure and make simple function:
+(2) let inc ((n:int), (k:int)) = n + k
+
+
+

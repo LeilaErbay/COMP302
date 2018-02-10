@@ -1,0 +1,13 @@
+(* Homework 1 Q0 
+   Name: Leila Erbay
+   ID: 260672158 *)
+
+Scenario 1: It seems that all three students are at fault. Bob and Tom are already partners and yet they are consulting another student, specifically a student whose skills are known to be stronger, instead of looking through other resources such as a TA, a prof or class notes. Hanna is in the wrong as well because I believe she gives them too much information as to what could be wrong. If I were her, I would've directed them to other resources such as class notes or suggesting that they go to office hours.
+
+Scenario 2: All three students are at fault. Tom is blatanly at fault for using another team's work for his assignment and adjusting it slightly because it is outright plagiarism. Anne and Bob are at fault because they did not make their github private and thus left themselves at risk for someone else to steal their work; they are accomplices to a plagiarism case. 
+
+Scenario 3: All three at clearly at fault.  Matt and Abbey were talking which is already a violation since Matt has a partner; furthermore, the fact that she shares her code with Matt violates policy. Matt and John violiate policy because they basically copied Abbey's code (what I infer from the situation); John is at fault for not knowing how Matt came to develop the code which they submitted and is equally responsible for copying Abbey's code. Abbey is at fault because she blatanly shares code. 
+
+
+
+
